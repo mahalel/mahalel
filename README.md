@@ -2,6 +2,7 @@
 
 - 🔭 I'm currently working on implementing Azure solutions using infrastructure as code.
 - 🌱 I'm currently learning Golang.
+- 🏢 I'm currently working from home.
 - 📫 How to reach me:
   - [Linkedin](https://www.linkedin.com/in/amahalean/)
 
